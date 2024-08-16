@@ -1,1 +1,1 @@
-"# Handwritten-Digit-Recognition-using-MNIST-Dataset" 
+"Handwritten-Digit-Recognition-using-MNIST-Dataset and Neural Network" 
